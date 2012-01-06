@@ -5,7 +5,7 @@
 	<artifactId>knappi-parent</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>parent-pom</name>
+	<name>open-source.knappi.org</name>
 	<build>
 		<!-- Deploy is current via ssh -->
 		<extensions>
@@ -111,9 +111,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/nknapp/parent-pom.git</connection>
-		<url>scm:git:git@github.com:nknapp/parent-pom.git</url>
-		<developerConnection>scm:git:git@github.com:nknapp/parent-pom.git</developerConnection>
+		<connection>scm:git:git://github.com/nknapp/knappi-parent.git</connection>
+		<url>scm:git:git@github.com:nknapp/knappi-parent.git</url>
+		<developerConnection>scm:git:git@github.com:nknapp/knappi-parent.git</developerConnection>
 	</scm>
 	<distributionManagement>
 		<repository>
