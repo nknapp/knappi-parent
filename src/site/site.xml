@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="open-source.knappi.org">
+  <bannerLeft>
+    <name>open-source.knappi.org</name>
+    <src></src>
+    <href></href>
+  </bannerLeft>
+  <bannerRight>
+    <src></src>
+  </bannerRight>
+  <body>
+    <menu name="Projects">
+      <item name="external-tools" href="external-tools/index.html"/>
+      <item name="calendar-widgets" href="calendar-widgets/index.html"/>
+    </menu>
+  </body>
+</project>
